@@ -1,0 +1,13 @@
+.coding{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+#dist{
+    width: 150px;
+}
