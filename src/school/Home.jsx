@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div>
       <Navbar/>
-      {/* <Fontawesome/> */}
+      {/* <Fontawesome/>bbb */}
     <div> WELCOME TO OUR CODING SCHOOL</div>
     <button className='btn btn-success'>login</button>
     
