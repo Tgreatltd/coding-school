@@ -8,6 +8,7 @@ const Fontawesome = () => {
             <FontAwesomeIcon icon={faEnvelope} />
             <FontAwesomeIcon icon={faHeart} />
             <FontAwesomeIcon icon={faMugHot} />
+            
 
 
         </div>
