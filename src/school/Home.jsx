@@ -17,7 +17,6 @@ const Home = () => {
     <button className='btn btn-success'>login</button>
     <button className='btn btn-success'>login</button>
     <button className='btn btn-success'>login</button>
-    <button className='btn btn-success'>login</button>
     
     </div>
   )
