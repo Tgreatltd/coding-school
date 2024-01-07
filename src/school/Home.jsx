@@ -17,7 +17,6 @@ const Home = () => {
     <div>WE TEACH PEOPLE HOW TO BE TECH ORIENTED</div>
     <div>WE TEACH PEOPLE HOW TO BE TECH ORIENTED</div>
     <div>WE TEACH PEOPLE HOW TO BE TECH ORIENTED</div>
-    <div>WE TEACH PEOPLE HOW TO BE TECH ORIENTED</div>
     <button className='btn btn-success'>login</button>
     
     </div>
