@@ -12,7 +12,8 @@ const Home = () => {
       {/* <Fontawesome/>bbb */}
     <div> WELCOME TO OUR CODING SCHOOL</div>
 
-    <div>WHAT WE DO</div> 
+    <div>WHAT WE DO</div>
+    
     <div>WE TEACH PEOPLE HOW TO BE TECH ORIENTED</div>
     <button className='btn btn-success'>login</button>
     
