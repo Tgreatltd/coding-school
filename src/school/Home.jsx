@@ -10,7 +10,7 @@ const Home = () => {
     <div>
       <Navbar/>
       {/* <Fontawesome/>bbb */}
-    <div> WELCOME TO OUR CODING SCHOOL</div>
+    <div> WELCOME TO OUR CODING SCHOOL</div> 
 
     <div>WHAT WE DO</div>
     
